@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": " a command-line application that dynamically generates a professional README.md file from a user's input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voi-jankowski/README-generator.git"
+  },
+  "keywords": [
+    "README",
+    "generator"
+  ],
+  "author": "Voi Jankowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voi-jankowski/README-generator/issues"
+  },
+  "homepage": "https://github.com/voi-jankowski/README-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
